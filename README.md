@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @Benjamin
-- 👀 I’m interested in making money 
-- 🌱 I’m currently learning how to be rich 
-- 💞️ I’m looking to collaborate on Good things
-- 📫 How to reach me linhuang011@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Remix of Wells Fargo Bank
 
-<!---
-Benjaminsilvq/Benjaminsilvq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Automatically synced with your [v0.app](https://v0.app) deployments*
+
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/bens-projects-fbdb64eb/v0-remix-of-wells-fargo-bank)
+[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/XvXX66eOEuF)
+
+## Overview
+
+This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
+Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+
+## Deployment
+
+Your project is live at:
+
+**[https://vercel.com/bens-projects-fbdb64eb/v0-remix-of-wells-fargo-bank](https://vercel.com/bens-projects-fbdb64eb/v0-remix-of-wells-fargo-bank)**
+
+## Build your app
+
+Continue building your app on:
+
+**[https://v0.app/chat/projects/XvXX66eOEuF](https://v0.app/chat/projects/XvXX66eOEuF)**
+
+## How It Works
+
+1. Create and modify your project using [v0.app](https://v0.app)
+2. Deploy your chats from the v0 interface
+3. Changes are automatically pushed to this repository
+4. Vercel deploys the latest version from this repository
